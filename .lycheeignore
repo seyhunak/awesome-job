@@ -1,0 +1,31 @@
+# URLs lychee should not check. One regex per line.
+#
+# Only add a host here when it is *reachable in a browser but unverifiable by
+# a bot* — aggressive WAFs, login walls, or hard bot blocks.
+
+# --- Social platforms: block non-browser agents outright ---
+^https?://(www\.)?linkedin\.com/
+^https?://(www\.)?x\.com/
+^https?://(twitter\.com|t\.co)/
+^https?://(www\.)?reddit\.com/
+^https?://(www\.)?facebook\.com/
+^https?://(www\.)?instagram\.com/
+^https?://(www\.)?tiktok\.com/
+
+# --- Vendor sites with aggressive WAFs ---
+^https?://(www\.)?salesforce\.com/
+^https?://(www\.)?oracle\.com/
+^https?://(www\.)?glassdoor\.com/
+^https?://(www\.)?indeed\.com/
+
+# --- Rendered dynamically ---
+^https?://api\.star-history\.com/
+^https?://img\.shields\.io/
+
+# --- Local and example URLs ---
+^https?://(localhost|127\.0\.0\.1)
+^https?://example\.(com|org)
+
+# --- TEMPORARY: remove once the repo has its first star ---
+^https?://github\.com/seyhunak/awesome-job/stargazers$
+^https?://github\.com/seyhunak/awesome-job/watchers$
