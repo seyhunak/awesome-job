@@ -614,6 +614,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | Tool | Description |
 |---|---|
 | [Jobscan](https://www.jobscan.co) ⭐ 💰 | Compare CV vs job description → match rate + keywords |
+| [ResumeAI](https://withresumeai.com/) 🆓 | Free ATS checker + State of ATS 2026 dataset (738 employers, 704 portal-verified); optional paid leaderboard placement |
 | [SkillSyncer](https://skillsyncer.com) 💰 | ATS keyword optimization |
 | [Resume Worded — ATS Scan](https://resumeworded.com/scan) 💰 | ATS + recruiter scan |
 | [TopResume ATS Scan](https://www.topresume.com/review) 🆓 | Free ATS scan |
