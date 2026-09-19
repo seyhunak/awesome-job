@@ -1,26 +1,38 @@
 <div align="center">
 
-# 💼 Awesome Job [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 💼 Awesome Job
 
 **A curated, production-first guide to the job market — portals, company career pages, remote boards, headhunters, interview prep, CV services, and salary intelligence.**
 
 Global · Regional (UAE · KSA · GCC · EU · UK · US · TR · IN · SG) · Tech & Non-Tech · Entry to Executive.
 
+> **Policy:** **Manual apply only — no auto-submit / bulk-apply automation listed here.**
+> This guide deliberately involves **no LinkedIn** (no Jobs, Easy Apply, Learning, Salary, Events, or Groups).
+> Every alternative below works without a LinkedIn account.
+
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Manual apply only](https://img.shields.io/badge/apply-manual_only-blue?style=flat-square&logo=handshake&logoColor=white)](https://github.com/seyhunak/awesome-job#start-here-in-5-minutes)
+[![No LinkedIn needed](https://img.shields.io/badge/LinkedIn-not_needed-lightgrey?style=flat-square)](https://github.com/seyhunak/awesome-job#job-search-fundamentals)
+
+<!-- Popularity -->
 [![GitHub stars](https://img.shields.io/github/stars/seyhunak/awesome-job?style=for-the-badge&logo=github&color=FFD700)](https://github.com/seyhunak/awesome-job/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/seyhunak/awesome-job?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/seyhunak/awesome-job/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/seyhunak/awesome-job?style=for-the-badge&logo=github&color=00BFFF)](https://github.com/seyhunak/awesome-job/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/seyhunak/awesome-job?style=for-the-badge&logo=github&color=FF69B4)](https://github.com/seyhunak/awesome-job/graphs/contributors)
 
-[![License: MIT](https://img.shields.io/github/license/seyhunak/awesome-job?style=flat-square&color=green)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+<!-- Health -->
 [![Last commit](https://img.shields.io/github/last-commit/seyhunak/awesome-job?style=flat-square&logo=git&logoColor=white)](https://github.com/seyhunak/awesome-job/commits/main)
 [![Issues](https://img.shields.io/github/issues/seyhunak/awesome-job?style=flat-square&logo=github)](https://github.com/seyhunak/awesome-job/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
+[![GitHub contributors](https://img.shields.io/github/contributors/seyhunak/awesome-job?style=flat-square&logo=github&color=FF69B4)](https://github.com/seyhunak/awesome-job/graphs/contributors)
+
+<!-- Project -->
+[![License: MIT](https://img.shields.io/github/license/seyhunak/awesome-job?style=flat-square&color=green)](LICENSE)
 [![Repo size](https://img.shields.io/github/repo-size/seyhunak/awesome-job?style=flat-square)](https://github.com/seyhunak/awesome-job)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-v2.1-blueviolet.svg?style=flat-square)](CODE_OF_CONDUCT.md)
-
-[![GitHub followers](https://img.shields.io/github/followers/seyhunak?style=social&label=Follow%20%40seyhunak)](https://github.com/seyhunak)
-[![Website](https://img.shields.io/badge/Website-seyhunakyurek.com-000000?style=flat-square&logo=safari&logoColor=white)](https://seyhunakyurek.com)
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square&logo=markdown)](https://commonmark.org)
+
+[![Follow @seyhunak](https://img.shields.io/github/followers/seyhunak?style=social&label=Follow%20%40seyhunak)](https://github.com/seyhunak)
+[![Website](https://img.shields.io/badge/Website-seyhunakyurek.com-000000?style=flat-square&logo=safari&logoColor=white)](https://seyhunakyurek.com)
 
 </div>
 
@@ -34,17 +46,41 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 **Legend:** ⭐ widely adopted default · 🔓 open source · 💰 commercial / paid tier · ☁️ managed service · 🆓 free · 🏢 agency · 🎯 niche
 
-> **How to use:** Start with [Job Search Fundamentals](#job-search-fundamentals), pick 2–3 boards from [Global Job Boards](#global-job-boards) + your [Region](#regional-job-boards), add one [Aggregator](#job-aggregators--meta-search), prep with [Interview Guidelines](#interview-guidelines), and ship with [CV Services](#cv--resume-services).
+> **How to use:** Start with [Job Search Fundamentals](#job-search-fundamentals), pick 2–3 boards from [Global Job Boards](#global-job-boards) + your [Region](#regional-job-boards) (see [UAE & Gulf](#uae--gulf-gcc) and [Saudi Arabia](#saudi-arabia--dedicated) first if you target the Gulf), add one [Aggregator](#job-aggregators--meta-search), prep with [Interview Guidelines](#interview-guidelines), and ship with [CV Services](#cv--resume-services). All applications here are **manual** — apply on the company ATS or the board itself, track in [Manual Application Tracking](#ats-optimization--manual-application-tracking), never via bulk auto-apply bots.
+
+---
+
+## Start Here in 5 Minutes
+
+| Goal | Go to |
+|---|---|
+| I want Gulf roles (UAE/KSA) | [UAE & Gulf (GCC)](#uae--gulf-gcc) → [Saudi Arabia — Dedicated](#saudi-arabia--dedicated) → [GCC headhunters](#headhunters-by-region--gcc--mena) |
+| I want remote work | [Remote Job Boards](#remote-job-boards) + one [Aggregator](#job-aggregators--meta-search) |
+| I want tech / AI roles | [Tech & Engineering](#tech--engineering-job-boards) + [AI / ML / Data](#ai--ml--data-job-boards) |
+| I want startups | [Startup & Venture Boards](#startup--venture-boards) + [Company Career Pages](#company-career-pages--direct-apply) |
+| I want executive roles | [Executive & Leadership](#executive--leadership-boards) + [Headhunters](#headhunters--recruiting-agencies) |
+| I want freelance / contract | [Freelance / Contract / Gig](#freelance--contract--gig) |
+| I need visa / relocation info | [Visa, Relocation & Legal](#visa-relocation--legal) |
+
+> **Manual-apply rule:** if a tool offers "one-click mass apply", "auto-apply", or "AI applies for you", it does not belong in this guide. Track everything by hand so every application is deliberate and tailored.
 
 ---
 
 ## 📑 Table of Contents
+
+### Start
+- ⚡ [Start Here in 5 Minutes](#start-here-in-5-minutes)
 
 ### Foundations
 - 🧭 [Job Search Fundamentals](#job-search-fundamentals)
 - 🔍 [Job Aggregators & Meta-Search](#job-aggregators--meta-search)
 - 🌐 [Global Job Boards](#global-job-boards)
 - 🌍 [Regional Job Boards](#regional-job-boards)
+  - [UAE & Gulf (GCC)](#uae--gulf-gcc)
+  - [Saudi Arabia — Dedicated](#saudi-arabia--dedicated)
+  - [Qatar · Kuwait · Bahrain · Oman](#qatar--kuwait--bahrain--oman)
+  - [Europe (EU-wide + country)](#europe-eu-wide)
+  - [UK](#united-kingdom) · [US](#united-states) · [Turkey](#turkey) · [India](#india) · [Singapore & Hong Kong](#singapore--hong-kong) · [Canada & Australia](#canada--australia)
 - 🏠 [Remote Job Boards](#remote-job-boards)
 - 💻 [Tech & Engineering Job Boards](#tech--engineering-job-boards)
 - 🤖 [AI / ML / Data Job Boards](#ai--ml--data-job-boards)
@@ -68,7 +104,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 ### Application
 - 📄 [CV / Resume Services & Builders](#cv--resume-services)
 - ✉️ [Cover Letter & Portfolio Tools](#cover-letter--portfolio-tools)
-- 🤖 [ATS Optimization & Application Tools](#ats-optimization--application-tools)
+- 🗂️ [ATS Optimization & Manual Application Tracking](#ats-optimization--manual-application-tracking) — manual only, no auto-submit
 - 💰 [Salary Research & Compensation](#salary-research--compensation)
 
 ### Human Network
@@ -107,10 +143,12 @@ Every section opens with a **primer** (the mental model you need), then lists th
 |---|---|---|
 | 1. Source | Pull from 2 global boards + 1 regional + 1 aggregator daily | [Global Boards](#global-job-boards), [Aggregators](#job-aggregators--meta-search) |
 | 2. Direct | Apply on company career page when possible (ATS priority) | [Company Pages](#company-career-pages--direct-apply) |
-| 3. Network | Find hiring manager → personalized outreach + referral ask | [LinkedIn](https://www.linkedin.com), [Networking](#networking--community) |
-| 4. Track | Log every application, contact, stage, and follow-up date | [ATS Tools](#ats-optimization--application-tools) |
+| 3. Network | Find hiring manager → personalized outreach + referral ask | [Networking](#networking--community) |
+| 4. Track | Log every application, contact, stage, and follow-up date — manually | [Manual Tracking](#ats-optimization--manual-application-tracking) |
 | 5. Prep | Tailor CV per role → prep STAR stories → mock interviews | [CV Services](#cv--resume-services), [Interview](#interview-guidelines) |
 | 6. Close | Salary data + competing offers → negotiate on total comp | [Salary Research](#salary-research--compensation) |
+
+> **No auto-submit:** steps 2–4 are manual by design. Do not use bulk-apply bots, one-click mass appliers, or "AI applies for you" services — they hurt match quality, break ATS parsing, and risk bans.
 
 ---
 
@@ -122,17 +160,23 @@ Every section opens with a **primer** (the mental model you need), then lists th
 |---|---|
 | [Google for Jobs](https://jobs.google.com) ⭐ 🆓 | The default meta-layer — indexes most boards and company ATS pages; best filters + alerts |
 | [Indeed](https://www.indeed.com) ⭐ 🆓 | Largest aggregator globally; also an ATS — set alerts, use advanced filters |
-| [LinkedIn Jobs](https://www.linkedin.com/jobs/) ⭐ 🆓 | Aggregator + network — Easy Apply + direct ATS links; #1 for referral path |
 | [Talent.com](https://www.talent.com) 🆓 | Global aggregator with salary data baked into search |
 | [Jooble](https://jooble.org) 🆓 | Aggregates 30k+ sources across 70+ countries |
 | [Adzuna](https://www.adzuna.com) 🆓 | Aggregator + salary/competition stats per role (UK, US, EU, AU) |
+| [Careerjet](https://www.careerjet.com) 🆓 | Meta-search across 60+ countries, clean filters |
+| [WhatJobs](https://www.whatjobs.com) 🆓 | Global aggregator with international coverage |
+| [JobisJob](https://www.jobisjob.com) 🆓 | Aggregator with salary guides per country |
 | [ZipRecruiter](https://www.ziprecruiter.com) 💰 | US-focused aggregator with AI matching |
 | [SimplyHired](https://www.simplyhired.com) 🆓 | Long-standing US aggregator, salary estimator included |
 | [Jora](https://www.jora.com) 🆓 | Aggregator present in 40+ countries, lightweight |
-| [Neuvoo / Talent.com EU](https://www.talent.com) | EU-specific crawl with localized boards |
 | [Jobrapido](https://www.jobrapido.com) 🆓 | Aggregator in 20+ countries, email digest |
 | [GrabJobs](https://grabjobs.co) 🆓 | Aggregator + ATS with chat-based apply (APAC + EU) |
 | [Himalayas](https://himalayas.app) 🆓 | Curated aggregator for remote-first view |
+| [Arbeitnow](https://www.arbeitnow.com) ⭐ 🆓 | EU-first aggregator + direct ATS links — strong DE/UK/FR coverage, good API |
+| [Jobicy](https://jobicy.com) 🆓 | Remote + tech aggregator with curated listings |
+| [HiringCafe](https://hiring.cafe) 🆓 | Aggregates company career pages directly — fresh postings feed |
+| [Hired / Vettery-style marketplaces](https://hired.com) ☁️ | Marketplace layer — companies apply to you (US/EU) |
+| [Otta](https://otta.com) 🆓 | Personalized matching aggregator (EU/US tech) |
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -140,19 +184,26 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 ## Global Job Boards
 
-> The broad-reach boards where most volume lives. Every job seeker should have profiles on at least LinkedIn + Indeed; add one specialist per your function.
+> The broad-reach boards where most volume lives. Set up profiles on Indeed + one regional board; add one specialist per your function. No LinkedIn needed — Indeed, Glassdoor, and regional boards cover reach + reviews.
 
 | Platform | Type | Notes |
 |---|---|---|
-| [LinkedIn Jobs](https://www.linkedin.com/jobs/) ⭐ 🆓 | General + Network | 1B+ users; apply + referral + recruiter inbound in one place |
 | [Indeed](https://www.indeed.com) ⭐ 🆓 | General | 300M+ monthly users, 30+ countries, best alert granularity |
-| [Glassdoor](https://www.glassdoor.com) 🆓 | General + Reviews | Jobs + salary + interview reviews + company ratings |
+| [Glassdoor](https://www.glassdoor.com) ⭐ 🆓 | General + Reviews | Jobs + salary + interview reviews + company ratings |
+| [Arbeitnow](https://www.arbeitnow.com) ⭐ 🆓 | General + Tech | EU-first board with city/country filters (DE/UK/FR/remote), direct company links |
 | [Monster](https://www.monster.com) 🆓 | General | Legacy global board, strong in US/EU/Gulf |
 | [CareerBuilder](https://www.careerbuilder.com) 🆓 | General | US-centric, resume database + AI matching |
 | [ZipRecruiter](https://www.ziprecruiter.com) 💰 | General | One-click apply to 100+ boards, strong US SMB coverage |
 | [SimplyHired](https://www.simplyhired.com) 🆓 | General | Aggregator-board hybrid with salary benchmarking |
 | [Jooble](https://jooble.org) 🆓 | General | 70+ countries, good for long-tail/local roles |
 | [Jora](https://www.jora.com) 🆓 | General | 40+ countries, especially AU/UK/Asia |
+| [Careerjet](https://www.careerjet.com) 🆓 | General | 60+ countries, simple search + alerts |
+| [WhatJobs](https://www.whatjobs.com) 🆓 | General | Global coverage, salary info inline |
+| [Talent.com](https://www.talent.com) 🆓 | General | Global board + salary data |
+| [Adzuna](https://www.adzuna.com) 🆓 | General | UK/US/EU/AU with competition stats |
+| [Jobicy](https://jobicy.com) 🆓 | General + Remote | Curated remote + tech + general listings |
+| [HiringCafe](https://hiring.cafe) 🆓 | General + Direct | Fresh feed straight from company career pages |
+| [Xing Jobs](https://www.xing.com/jobs) 🆓 | Professional network + Jobs | DACH professional network + jobs + company reviews |
 | [Facebook Jobs](https://www.facebook.com/jobs) 🆓 | General | Local/service/hourly roles, underrated for non-tech |
 | [X / Twitter Jobs](https://jobs.x.com) 🆓 | General | Curated tech + media roles, search via hashtags |
 | [BeBee](https://www.bebee.com) 🆓 | Social + Jobs | Professional network with hive-based discovery |
@@ -165,35 +216,82 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 ### 🇦🇪 UAE & Gulf (GCC)
 
+> Start here for Dubai / Abu Dhabi / Sharjah and GCC-wide roles. Combine 1 official portal + 2 commercial boards + 1 classifieds source. All manual apply — no LinkedIn filter needed.
+
 | Platform | Description |
 |---|---|
 | [Bayt.com](https://www.bayt.com) ⭐ 🆓 | #1 in MENA — 50M+ professionals, dominant in UAE/KSA |
 | [GulfTalent](https://www.gulftalent.com) ⭐ 🆓 | Premium GCC board — finance, executive, engineering |
 | [Naukrigulf](https://www.naukrigulf.com) ⭐ 🆓 | Gulf arm of Naukri — mass + mid-senior coverage |
-| [Dubizzle Jobs / Dubizzle](https://dubai.dubizzle.com/jobs/) 🆓 | UAE classifieds + jobs, strong for local hires |
+| [Indeed UAE](https://ae.indeed.com) ⭐ 🆓 | Largest volume for UAE — set Dubai/Abu Dhabi/Sharjah alerts |
+| [Arbeitnow — UAE](https://www.arbeitnow.com) 🆓 | EU-origin board with growing UAE/remote listings + direct apply links |
+| [Jobicy — Gulf](https://jobicy.com) 🆓 | Curated remote + Gulf-friendly tech listings |
+| [Dubizzle Jobs](https://dubai.dubizzle.com/jobs/) 🆓 | UAE classifieds + jobs, strong for local hires |
 | [Foundit Gulf (ex-Monster Gulf)](https://www.founditgulf.com) 🆓 | Monster's Gulf brand — tech + corporate roles |
+| [DrJobs UAE](https://www.drjobs.ae) 🆓 | GCC board with UAE hub — mid-senior + executive |
+| [Akhtaboot](https://www.akhtaboot.com) 🆓 | MENA board — entry to mid-senior, strong Jordan/UAE corridor |
+| [Gulf News Careers](https://www.gncareers.com) 🆓 | Gulf News–linked listings — UAE corporate + services |
+| [Khaleej Times Jobs](https://www.khaleejtimes.com/jobs) 🆓 | UAE newspaper jobs channel — local + government-adjacent |
 | [Laimoon](https://www.laimoon.com) 🆓 | UAE jobs + courses, good for entry/mid |
-| [Jobs in Dubai / Dubizzle Pro](https://www.jobsindubai.com) 🆓 | Niche Dubai board |
+| [Oliv (ex-InternsMe)](https://www.oliv.com) 🆓 | UAE youth + early-career — internships, graduate roles |
 | [Qureos](https://www.qureos.com) ☁️ | GCC + AI matching + upskilling |
-| [Taqat / Taqat.sa](https://www.taqat.sa) 🆓 | Saudi HRDF official portal (KSA nationals) |
-| [Jadarat](https://jadarat.sa) 🆓 | Saudi national employment platform (successor to Taqat/Jadara) |
-| [Mihnati](https://www.mihnati.com) 🆓 | KSA-focused board |
-| [Qatar Living Jobs](https://www.qatarliving.com/jobs) 🆓 | Qatar classifieds + jobs |
-| [Kuwait Jobs / 4Sale](https://www.kuwaitjobs.com) 🆓 | Kuwait listings |
-| [Bahrain Jobs / Expatriates.com](https://www.expatriates.com/cls/bahrain.html) 🆓 | Bahrain + expat roles |
-| [Oman Jobs / Naukrigulf Oman](https://www.naukrigulf.com/jobs-in-oman) 🆓 | Oman-specific filter on Naukrigulf |
-| [LinkedIn Gulf Jobs filter](https://www.linkedin.com/jobs/search/?location=Gulf) 🆓 | LinkedIn geo-filter — essential secondary source |
+| [GulfCareers](https://www.gulfcareers.com) 🆓 | GCC board — free postings, employer analytics |
+| [CatererGlobal Gulf](https://www.catererglobal.com) 🎯 | Hospitality-specific — UAE/Qatar/KSA hotels + F&B |
+| [Naukrigulf — Healthcare filter](https://www.naukrigulf.com) 🎯 | Healthcare roles via category filter — nursing, medical, hospital (high UAE demand) |
 
-### 🇸🇦 Saudi Arabia — Dedicated
+#### UAE — Official & government channels
 
 | Platform | Description |
 |---|---|
-| [Jadarat](https://jadarat.sa) ⭐ | National platform for Saudi employment (public + private) |
-| [Taqat](https://www.taqat.sa) ⭐ | HRDF portal — training + employment for Saudis |
-| [Misk / Misk Careers](https://misk.org.sa) 🆓 | Misk Foundation — youth, leadership, and fellowship pipelines |
+| [Nafis (UAE Emiratisation)](https://www.nafis.gov.ae) ⭐ 🆓 | Official UAE program for Emirati employment — private-sector incentives + listings |
+| [Dubai Careers (Government of Dubai)](https://www.dubaicareers.ae) ⭐ 🆓 | Official Dubai government jobs portal |
+| [TAMM — Abu Dhabi Government Jobs](https://www.tamm.abudhabi) 🆓 | Official Abu Dhabi government services + jobs gateway |
+| [Sharjah Government Jobs](https://www.sharjah.ae) 🆓 | Sharjah government careers entry point |
+| [MOHRE — Ministry of Human Resources & Emiratisation](https://www.mohre.gov.ae) 🆓 | Official UAE labor portal — work permits, labor market, job guidance |
+| [Jobs in Dubai / Dubizzle Pro](https://www.jobsindubai.com) 🆓 | Niche Dubai board |
+
+### 🇸🇦 Saudi Arabia — Dedicated
+
+> KSA hiring runs through **Jadarat + Taqat/Qiwa** for nationals and **Bayt/Naukrigulf/GulfTalent** for expats + private sector. Giga-projects (NEOM, Red Sea, Qiddiya, Diriyah, ROSHN) hire direct on their own career pages — always check those first.
+
+| Platform | Description |
+|---|---|
+| [Jadarat](https://jadarat.sa) ⭐ 🆓 | National unified employment platform — public + private, managed by HRDF |
+| [Taqat](https://www.taqat.sa) ⭐ 🆓 | HRDF portal — training + employment for Saudis |
+| [Qiwa](https://www.qiwa.sa) ⭐ 🆓 | MHRSD platform — work permits, Saudization/Nitaqat status, labor services |
+| [Misk Careers](https://misk.org.sa) 🆓 | Misk Foundation — youth, leadership, and fellowship pipelines |
 | [NEOM Careers](https://www.neom.com/en-us/our-business/careers) 🏢 | Giga-project direct hiring |
+| [Red Sea Global Careers](https://www.redseaglobal.com/en/careers) 🏢 | Giga-project — hospitality, construction, sustainability |
+| [Qiddiya Careers](https://qiddiya.com/careers) 🏢 | Giga-project — entertainment, sport, arts |
+| [Diriyah Careers](https://www.diriyah.sa/careers) 🏢 | Giga-project — culture, heritage, construction |
+| [ROSHN Careers](https://www.roshn.sa/en/careers) 🏢 | PIF-backed real-estate developer — direct hiring |
+| [PIF Careers](https://www.pif.gov.sa/en/careers/) 🏢 | Public Investment Fund + portfolio companies |
+| [Saudi Aramco Careers](https://jobs.aramco.com) 🏢 | Energy major — engineering, tech, corporate |
+| [STC Careers](https://careers.stc.com.sa) 🏢 | Telecom + tech — STC Group direct hiring |
+| [SABIC Careers](https://www.sabic.com/en/careers) 🏢 | Chemicals — engineering + corporate |
 | [Bayt KSA](https://www.bayt.com/en/saudi-arabia/) | Bayt filtered for KSA |
 | [Naukrigulf KSA](https://www.naukrigulf.com/jobs-in-saudi-arabia) | KSA filter on Naukrigulf |
+| [GulfTalent KSA](https://www.gulftalent.com/saudi-arabia/jobs) | KSA filter on GulfTalent |
+| [DrJobs KSA](https://www.drjobs.ae) 🆓 | DrJobs GCC portal — use KSA country filter |
+| [Mihnati](https://www.mihnati.com) 🆓 | KSA-focused board |
+| [Open Positions via HRDF / Hadaf](https://www.hrdf.org.sa) 🆓 | HRDF programs + employer incentives linked to Jadarat |
+| [LEAP / tech-event hiring (Riyadh)](https://www.onegiantleap.com) 🆓 | Annual Riyadh tech event — startup + enterprise hiring surge |
+
+### 🇶🇦 Qatar · 🇰🇼 Kuwait · 🇧🇭 Bahrain · 🇴🇲 Oman
+
+| Platform | Coverage | Notes |
+|---|---|---|
+| [Qatar Government Jobs (Diwan)](https://www.diwan.gov.qa) 🆓 | 🇶🇦 Qatar | Official Qatar government recruitment |
+| [Qatar Living Jobs](https://www.qatarliving.com/jobs) 🆓 | 🇶🇦 Qatar | Qatar classifieds + jobs — local + expat |
+| [Qatar Airways Careers](https://careers.qatarairways.com) 🏢 | 🇶🇦 Qatar | Airline + group direct hiring |
+| [Kuwait Government Jobs (e-Government)](https://www.e.gov.kw) 🆓 | 🇰🇼 Kuwait | Official Kuwait e-government portal — employment services |
+| [Kuwait Jobs / 4Sale](https://www.kuwaitjobs.com) 🆓 | 🇰🇼 Kuwait | Kuwait listings + classifieds |
+| [Bahrain Government Jobs (CSB)](https://www.csb.gov.bh) 🆓 | 🇧🇭 Bahrain | Official Civil Service Bureau portal |
+| [Propel Consult](https://www.propelconsult.com) 🏢 | 🇧🇭 Bahrain / 🇦🇪 UAE | Bahrain/UAE — finance, HR, admin |
+| [Expatriates.com — Bahrain](https://www.expatriates.com/cls/bahrain.html) 🆓 | 🇧🇭 Bahrain | Bahrain + expat roles |
+| [Oman Government Jobs (Tawteen)](https://www.tawteen.om) 🆓 | 🇴🇲 Oman | Official Oman employment portal |
+| [Naukrigulf Oman](https://www.naukrigulf.com/jobs-in-oman) 🆓 | 🇴🇲 Oman | Oman-specific filter on Naukrigulf |
+| [GulfTalent — Qatar/Kuwait/Bahrain/Oman](https://www.gulftalent.com) 🆓 | GCC | Use country filter per market |
 
 ### 🇪🇺 Europe (EU-wide)
 
@@ -202,7 +300,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [EURES](https://eures.europa.eu) ⭐ 🆓 | EU official mobility portal — 3M+ vacancies across 31 countries |
 | [EuroJobs](https://www.eurojobs.com) 🆓 | Pan-EU board, English-language roles |
 | [StepStone](https://www.stepstone.com) ⭐ 🆓 | Dominant in DE/BE/NL — StepStone.de/.be/.nl + Totaljobs UK |
-| [XING Jobs](https://www.xing.com/jobs) 🆓 | DACH professional network + jobs (German LinkedIn) |
+| [XING Jobs](https://www.xing.com/jobs) 🆓 | DACH professional network + jobs (German-language alternative to global networks) |
 | [Jobrapido EU](https://www.jobrapido.com) 🆓 | EU aggregator, localized per country |
 | [EuroBrussels](https://www.eurobrussels.com) 🆓 | Brussels / EU institutions + policy roles |
 | [Indeed EU](https://www.indeed.com) | Country-specific Indeed (indeed.de/.fr/.es/.it/.nl) |
@@ -218,7 +316,8 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [APEC](https://www.apec.fr) | 🇫🇷 France | Cadre/executive roles FR |
 | [InfoJobs](https://www.infojobs.net) ⭐ | 🇪🇸 Spain | #1 in Spain |
 | [InfoJobs.it](https://www.infojobs.it) | 🇮🇹 Italy | Italy mass board |
-| [LinkedIn ES/IT/FR/NL](https://www.linkedin.com/jobs/) | EU | Best for cross-border EU roles in English |
+| [Arbeitnow EU](https://www.arbeitnow.com) 🆓 | EU | English-language EU roles + direct apply |
+| [Malt](https://www.malt.com) ⭐ | EU freelance+perm | EU freelancer marketplace doubling as perm discovery (FR/DE/ES/BE/NL) |
 
 ### 🇬🇧 United Kingdom
 
@@ -231,13 +330,15 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Guardian Jobs](https://jobs.theguardian.com) 🆓 | Public sector, charity, media, education UK |
 | [Milkround](https://www.milkround.com) 🆓 | UK graduate / entry-level |
 | [CWJobs](https://www.cwjobs.co.uk) 🆓 | UK tech-specific |
+| [Arbeitnow UK](https://www.arbeitnow.co.uk) 🆓 | UK + remote listings with direct apply |
+| [JobServe](https://www.jobserve.com) 🆓 | UK tech + engineering contracting |
 
 ### 🇺🇸 United States
 
 | Platform | Description |
 |---|---|
 | [Indeed US](https://www.indeed.com) ⭐ | Mass US coverage |
-| [LinkedIn US](https://www.linkedin.com/jobs/) ⭐ | #1 for white-collar US |
+| [Glassdoor US](https://www.glassdoor.com) 🆓 | US jobs + reviews + salary in one place |
 | [ZipRecruiter US](https://www.ziprecruiter.com) | Strong SMB + hourly US |
 | [CareerBuilder US](https://www.careerbuilder.com) | US legacy board |
 | [USAJobs](https://www.usajobs.gov) ⭐ 🆓 | Official US federal government jobs |
@@ -251,10 +352,10 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Kariyer.net](https://www.kariyer.net) ⭐ 🆓 | #1 in Turkey — dominant generalist board |
 | [Secretcv](https://www.secretcv.com) 🆓 | Large TR board, mid-senior |
 | [Yenibiris](https://www.yenibiris.com) 🆓 | TR generalist, strong corporate |
-| [LinkedIn Turkey](https://www.linkedin.com/jobs/search/?location=Turkey) | English + Turkish roles, multinational coverage |
 | [Eleman.net](https://www.eleman.net) 🆓 | TR blue-collar + entry roles |
 | [Isin Olsun](https://www.isinolsun.com) 🆓 | TR generalist |
 | [Iskur / İŞKUR](https://www.iskur.gov.tr) 🆓 | Official Turkish Employment Agency — state portal |
+| [Arbeitnow — Turkey remote](https://www.arbeitnow.com) 🆓 | Remote-friendly roles open to TR-based candidates |
 
 ### 🇮🇳 India
 
@@ -264,8 +365,8 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Foundit (ex-Monster India)](https://www.foundit.in) 🆓 | Major India board, tech + corporate |
 | [Shine.com](https://www.shine.com) 🆓 | India mid-senior + fresher |
 | [Apna](https://apna.co) 🆓 | India blue/grey collar + entry, mobile-first |
-| [LinkedIn India](https://www.linkedin.com/jobs/search/?location=India) | White-collar + tech India |
 | [Cutshort](https://cutshort.io) ☁️ | India tech hiring, AI-matched |
+| [Hirist (tech India)](https://www.hirist.com) 🎯 | India tech-specific board |
 
 ### 🇸🇬 Singapore & Hong Kong
 
@@ -275,7 +376,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [JobsDB](https://www.jobsdb.com) ⭐ 🆓 | SE Asia — HK, SG, TH, PH (SEEK group) |
 | [JobStreet](https://www.jobstreet.com) ⭐ 🆓 | SE Asia — SG/MY/PH/ID (SEEK group) |
 | [eFinancialCareers SG/HK](https://www.efinancialcareers.sg) 🎯 | Finance-specific SG/HK |
-| [LinkedIn SG/HK](https://www.linkedin.com/jobs/) | Expat + multinational coverage |
+| [GrabJobs SG](https://grabjobs.co) 🆓 | SG chat-based apply + alerts |
 
 ### 🇨🇦 Canada & 🇦🇺 Australia
 
@@ -285,7 +386,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Jora AU](https://au.jora.com) 🆓 | Aggregator AU |
 | [Workopolis / Indeed CA](https://ca.indeed.com) | Canada mass boards |
 | [Job Bank Canada](https://www.jobbank.gc.ca) 🆓 | Official Canadian government portal |
-| [LinkedIn CA/AU](https://www.linkedin.com/jobs/) | White-collar CA/AU |
+| [Jora AU / CA](https://www.jora.com) 🆓 | Aggregator coverage for AU/CA |
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -312,7 +413,9 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [DailyRemote](https://dailyremote.com) 🆓 | Daily remote listings |
 | [Europe Remotely](https://europeremotely.com) 🆓 | Remote jobs with EU timezone focus |
 | [Remote Rocketship](https://remoterocketship.com) 🆓 | Aggregates 100k+ remote jobs |
-| [LinkedIn Remote filter](https://www.linkedin.com/jobs/search/?f_WT=2) 🆓 | LinkedIn `Remote` filter — largest volume |
+| [Jobicy Remote](https://jobicy.com) 🆓 | Curated remote listings with salary filters |
+| [Arbeitnow Remote](https://www.arbeitnow.com/jobs/remote) 🆓 | Remote filter with direct company links |
+| [NoDesk](https://nodesk.co) 🆓 | Curated remote jobs + company profiles |
 
 ---
 
@@ -322,8 +425,8 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 | Platform | Description |
 |---|---|
-| [LinkedIn Tech](https://www.linkedin.com/jobs/search/?keywords=software%20engineer) ⭐ | Largest tech volume + recruiter inbound |
-| [Indeed Tech](https://www.indeed.com/q-software-engineer-jobs.html) | Mass tech coverage |
+| [Indeed Tech](https://www.indeed.com/q-software-engineer-jobs.html) ⭐ | Mass tech coverage |
+| [Arbeitnow Tech](https://www.arbeitnow.com) ⭐ 🆓 | Tech-heavy EU/remote listings with direct apply |
 | [Stack Overflow Jobs / Overflow](https://stackoverflow.co/jobs) ⭐ 🆓 | Developer-native — tags, salary, tech stack filters |
 | [GitHub Jobs / GitHub Careers](https://github.com/about/careers) 🏢 | GitHub + ecosystem roles |
 | [Hacker News Who's Hiring](https://news.ycombinator.com/item?id=whoishiring) 🆓 | Monthly HN thread — high-signal startup + big tech |
@@ -343,6 +446,8 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Berlin Startup Jobs](https://berlinstartupjobs.com) 🆓 | Berlin tech ecosystem |
 | [Kariyer.net Tech](https://www.kariyer.net/is-ilanlari?sektor=bilisim) | Turkey tech filter |
 | [Built In](https://builtin.com/jobs) 🆓 | US tech hubs — Built In NYC/LA/Chicago/Austin/Colorado |
+| [Cord](https://cord.co) 🆓 | EU/UK tech marketplace — direct hiring-manager chat |
+| [PowerToFly](https://powertofly.com) 🆓 | Diversity-focused tech + remote roles |
 
 ---
 
@@ -352,9 +457,9 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 | Platform | Description |
 |---|---|
-| [LinkedIn AI Jobs](https://www.linkedin.com/jobs/search/?keywords=AI%20Engineer) ⭐ | Largest AI volume; use AI/ML/Data filters |
 | [AI-Jobs.net](https://ai-jobs.net) ⭐ 🎯 | Dedicated AI/ML board — research + engineering |
 | [Talent.com AI](https://www.talent.com/jobs/ai) | Aggregator AI filter |
+| [DataJobs.com](https://datajobs.com) 🎯 | Data + analytics specific board |
 | [Hugging Face Jobs](https://huggingface.co/jobs) 🏢 | ML/AI community-adjacent roles |
 | [Kaggle Jobs](https://www.kaggle.com/jobs) 🆓 | Data science competition community + jobs |
 | [Data Science Central Jobs](https://www.datasciencecentral.com) 🆓 | Data science editorial + job listings |
@@ -365,6 +470,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Built In AI](https://builtin.com/job-category/artificial-intelligence) | AI jobs by US hub |
 | [GulfTalent AI](https://www.gulftalent.com/uae/jobs/artificial-intelligence) | GCC AI roles |
 | [StepStone AI (DE)](https://www.stepstone.de/jobs/artificial-intelligence) | DACH AI roles |
+| [Arbeitnow AI](https://www.arbeitnow.com) 🆓 | AI/ML filter with direct apply links |
 
 ---
 
@@ -404,8 +510,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 | Platform | Description |
 |---|---|
-| [LinkedIn Executive](https://www.linkedin.com/jobs/search/?f_E=6) ⭐ | Largest exec volume; filter by Director/VP/C-level |
-| [The Ladders](https://www.theladders.com) 💰 | US $100k+ roles, curated |
+| [The Ladders](https://www.theladders.com) ⭐ 💰 | US $100k+ roles, curated |
 | [ExecuNet](https://www.execunet.com) 💰 | Executive network + confidential search |
 | [EFinancialCareers](https://www.efinancialcareers.com) 🎯 | Finance executive — global |
 | [Ivy Exec](https://ivyexec.com) 💰 | C-suite + premium mentoring |
@@ -484,7 +589,26 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Bain](https://www.bain.com/careers/) | bain.com/careers |
 | [Big Four](https://www2.deloitte.com/careers) | Deloitte / PwC / EY / KPMG careers |
 
-> **Tip:** For any target company, set a Google Alert: `"<Company>" careers OR hiring site:linkedin.com/jobs` and check their ATS weekly.
+> **Tip:** For any target company, set a Google Alert: `"<Company>" careers OR hiring` and check their ATS weekly. Prefer `site:greenhouse.io`, `site:lever.co`, `site:myworkdayjobs.com`, or `site:ashbyhq.com` searches.
+
+### GCC — Direct employer & giga-project careers
+
+| Employer | Career Page |
+|---|---|
+| [NEOM](https://www.neom.com/en-us/our-business/careers) | Giga-project — all sectors |
+| [Red Sea Global](https://www.redseaglobal.com/en/careers) | Hospitality, construction, sustainability |
+| [Qiddiya](https://qiddiya.com/careers) | Entertainment, sport, arts |
+| [Diriyah](https://www.diriyah.sa/careers) | Culture, heritage, construction |
+| [ROSHN](https://www.roshn.sa/en/careers) | Real estate / PIF portfolio |
+| [PIF](https://www.pif.gov.sa/en/careers/) | Sovereign fund + portfolio hiring |
+| [Saudi Aramco](https://jobs.aramco.com) | Energy — engineering, tech, corporate |
+| [SABIC](https://www.sabic.com/en/careers) | Chemicals |
+| [STC Group](https://careers.stc.com.sa) | Telecom + tech |
+| [Emirates Group](https://www.emiratesgroupcareers.com) | Aviation (Dubai) |
+| [Etihad Airways](https://careers.etihad.com) | Aviation (Abu Dhabi) |
+| [Qatar Airways](https://careers.qatarairways.com) | Aviation (Doha) |
+| [ADNOC](https://www.adnoc.ae) | Energy (Abu Dhabi) — careers via corporate site |
+| [e& (Etisalat)](https://www.eand.com/en/careers.jsp) | Telecom + tech (UAE) |
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -637,22 +761,19 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 ---
 
-## ATS Optimization & Application Tools
+## ATS Optimization & Manual Application Tracking
 
-> An ATS is the **gatekeeper** — if it can't parse your CV, a human never sees it. Use single-column layouts, standard headings, and keywords from the job description.
+> An ATS is the **gatekeeper** — if it can't parse your CV, a human never sees it. Use single-column layouts, standard headings, and keywords from the job description. **This guide is manual-apply only:** no bulk auto-apply, no one-click mass appliers, no "AI applies for you" bots. Every application is tailored and submitted by hand.
 
 | Tool | Description |
 |---|---|
-| [Teal HQ](https://www.tealhq.com) ⭐ 🆓 | Job tracker + CV tailoring + AI apply — best free OS |
-| [Huntr](https://huntr.co) 🆓 | Kanban job tracker + CV + contacts |
-| [Simplify](https://simplify.jobs) 🆓 | Autofill + tracker + one-click apply (US) |
-| [Jobscan](https://www.jobscan.co) 💰 | ATS match rate optimizer |
-| [Rezi](https://www.rezi.ai) 💰 | AI resume + ATS optimization |
-| [Loopcv](https://loopcv.co) 💰 | Auto-apply to jobs matching criteria |
-| [LazyApply](https://lazyapply.com) 💰 | One-click bulk apply automation |
-| [ Sonara](https://www.sonara.ai) 💰 | AI auto-apply platform |
-| [MassApply / AI Apply](https://aiapply.co) 💰 | AI application automation |
+| [Teal HQ](https://www.tealhq.com) ⭐ 🆓 | Job tracker + CV tailoring — manual pipeline (use tracker only, no auto-apply) |
+| [Huntr](https://huntr.co) 🆓 | Kanban job tracker + CV + contacts — manual |
+| [Jobscan](https://www.jobscan.co) 💰 | ATS match rate optimizer — manual CV tailoring |
+| [Rezi](https://www.rezi.ai) 💰 | AI resume + ATS optimization — manual drafts, you submit |
 | [Notion Job Tracker templates](https://www.notion.so/templates) 🆓 | DIY tracker — Notion templates for pipeline |
+
+> **Not listed on purpose:** Loopcv, LazyApply, Sonara, MassApply/AI Apply, Simplify one-click apply, and similar auto-submit automation. They conflict with the manual-apply policy and risk ATS bans or low-quality spray applications.
 
 ---
 
@@ -664,7 +785,6 @@ Every section opens with a **primer** (the mental model you need), then lists th
 |---|---|
 | [Levels.fyi](https://www.levels.fyi) ⭐ 🆓 | Tech comp by level — base + equity + bonus, verified |
 | [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm) ⭐ 🆓 | Salaries + reviews per company/role |
-| [LinkedIn Salary](https://www.linkedin.com/salary/) 🆓 | Salary insights from LinkedIn data |
 | [Indeed Salary](https://www.indeed.com/career/salaries) 🆓 | Aggregated salary per title/location |
 | [Payscale](https://www.payscale.com) 🆓 | Salary reports + negotiation guides |
 | [Salary.com](https://www.salary.com) 🆓 | US salary bands + cost-of-living |
@@ -758,8 +878,8 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 | Platform / Community | Description |
 |---|---|
-| [LinkedIn](https://www.linkedin.com) ⭐ 🆓 | #1 professional network — content, outreach, referrals |
-| [Meetup](https://www.meetup.com) 🆓 | Local professional meetups per city/skill |
+| [Meetup](https://www.meetup.com) ⭐ 🆓 | Local professional meetups per city/skill — best networking default in this guide |
+| [XING](https://www.xing.com) 🆓 | DACH professional network — events, groups, jobs |
 | [Lunchclub](https://lunchclub.com) 🆓 | AI-matched 1:1 professional intros |
 | [Polywork](https://www.polywork.com) 🆓 | Portfolio + collaboration network |
 | [Slack communities](https://www.slofile.com) 🆓 | Slack groups per domain (search slofile.com for your niche) |
@@ -769,7 +889,9 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Internations](https://www.internations.org) 💰 | Expat network — 5M+ members, city chapters |
 | [Bumble Bizz](https://bumble.com/bizz) 🆓 | Networking via Bumble |
 | [Shapr](https://www.shapr.co) 🆓 | Professional networking app (like Tinder for networking) |
-| [Alumni networks](https://www.linkedin.com/groups/) 🆓 | University alumni groups on LinkedIn — warm intro gold |
+| [Wellfound](https://wellfound.com) 🆓 | Startup network + jobs — founder and hiring-manager outreach |
+| [X / Twitter tech community](https://jobs.x.com) 🆓 | Tech hiring conversations via hashtags + company accounts |
+| [GitHub + Dev.to communities](https://dev.to) 🆓 | Engineer networking via open source + writing |
 
 ---
 
@@ -783,7 +905,6 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Rezoom / MentorCruise](https://mentorcruise.com) 💰 | Long-term mentorship per domain |
 | [BetterUp](https://www.betterup.com) 💰 | Professional coaching platform (enterprise) |
 | [Coach.me](https://coach.me) 💰 | Habit + career coaching |
-| [LinkedIn Career Advice](https://www.linkedin.com/in/career-advice/) 🆓 | LinkedIn's built-in mentorship matching |
 | [Fiverr — Career Coaching](https://www.fiverr.com/categories/business/career-advice) 💰 | Affordable coaching gigs |
 
 ---
@@ -796,7 +917,6 @@ Every section opens with a **primer** (the mental model you need), then lists th
 |---|---|
 | [Coursera](https://www.coursera.org) ⭐ 🆓/💰 | University courses — Google, IBM, Meta certificates |
 | [Udemy](https://www.udemy.com) 💰 | Mass marketplace — affordable, frequent sales |
-| [LinkedIn Learning](https://www.linkedin.com/learning/) 💰 | Professional courses integrated with LinkedIn profile |
 | [edX](https://www.edx.org) 🆓/💰 | University-level courses (MIT, Harvard) |
 | [Udacity](https://www.udacity.com) 💰 | Nanodegrees — tech + data, project-based |
 | [Pluralsight](https://www.pluralsight.com) 💰 | Tech skill assessments + paths |
@@ -849,11 +969,12 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 | Event / Platform | Description |
 |---|---|
-| [LinkedIn Events](https://www.linkedin.com/events/) 🆓 | Virtual + in-person career events |
-| [Meetup — Career Fairs](https://www.meetup.com) 🆓 | Local career fairs + networking |
+| [Meetup — Career Fairs](https://www.meetup.com) ⭐ 🆓 | Local career fairs + networking |
 | [Eventbrite — Career Events](https://www.eventbrite.com/d/career-fairs/) 🆓 | Career fair listings per city |
 | [GITEX / GITEX Global (Dubai)](https://www.gitex.com) | MENA tech + career expo |
+| [Expand North Star (Dubai)](https://www.expandnorthstar.com) | MENA startup + hiring event |
 | [STEP Conference (Dubai)](https://stepconference.com) | MENA startup + tech careers |
+| [LEAP (Riyadh)](https://www.onegiantleap.com) | KSA tech + hiring event |
 | [Web Summit](https://websummit.com) | Global tech + hiring event (Lisbon) |
 | [HackerX](https://www.hackerx.org) 🆓 | Invite-only developer recruiting events (global cities) |
 | [Tech Jobs Fair](https://techjobsfair.com) | EU tech job fairs (Berlin, London, etc.) |
@@ -865,7 +986,6 @@ Every section opens with a **primer** (the mental model you need), then lists th
 
 | Resource | Description |
 |---|---|
-| [LinkedIn News — Hiring](https://www.linkedin.com/news/) 🆓 | Hiring trends + layoff intel from LinkedIn data |
 | [Layoffs.fyi](https://layoffs.fyi) 🆓 | Tech layoff tracker — useful for timing + targeting |
 | [HiringCafe](https://hiring.cafe) 🆓 | Aggregates company career pages — fresh postings feed |
 | [Ask a Manager (Alison Green)](https://www.askamanager.org) 🆓 | Best workplace + job search advice blog |
@@ -900,6 +1020,8 @@ This list is **production-first**. An entry should be something a job seeker or 
 - Marketing pages, waitlists, and unreleased products
 - Paid-only content behind a signup wall with no substance
 - Duplicate entries already listed under another section
+- Auto-submit / bulk-apply / "AI applies for you" automation (manual-apply policy)
+- LinkedIn-dependent entries (this guide stays usable with no LinkedIn account)
 
 ### Entry checklist
 
