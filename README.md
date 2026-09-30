@@ -626,7 +626,8 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Indeed Interview Guide](https://www.indeed.com/career-advice/interviewing) 🆓 | Comprehensive guide — questions, etiquette, follow-up |
 | [Glassdoor Interviews](https://www.glassdoor.com/Interview/index.htm) 🆓 | Real interview questions + process reviews per company |
 | [The Muse — Interview Advice](https://www.themuse.com/advice/interviewing) 🆓 | Practical guides for every interview stage |
-| [Lifeline / STAR Method Guide — Indeed](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique) 🆓 | The STAR framework explained with examples |
+| [Lifeline / STAR Method Guide — Indeed](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique) 🆓 | The STAR framework explained with examples | 
+| [Luna Interview](https://lunainterview.xyz/) 💰 | AI interview prep copilot side panel that suggests answers from your own notes during video calls  |
 | [Ask a Manager — Interview Section](https://www.askamanager.org) 🆓 | Alison Green's no-nonsense interview advice archive |
 
 ---
