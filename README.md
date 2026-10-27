@@ -682,6 +682,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Exponent — Behavioral Interview](https://www.tryexponent.com/courses/behavioral) 💰 | Framework + example answers for tech behavioral |
 | [Lewis Lin — Interview Guides](https://www.lewislinhq.com) 💰 | PM + behavioral guides (ex-Google/Amazon) |
 | [Pramp — Behavioral](https://www.pramp.com) 🆓 | Peer mock behavioral interviews |
+| [speaking.app](https://speaking.app/behavioral-interview-practice) ☁️ | Practice behavioral answers aloud with feedback on structure and delivery; free monthly allowance and optional Pro |
 | [Glassdoor — Behavioral Q&A per company](https://www.glassdoor.com/Interview/index.htm) 🆓 | Real behavioral questions reported by candidates |
 
 ---
