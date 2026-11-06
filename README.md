@@ -732,7 +732,6 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [ Kickresume](https://www.kickresume.com) 💰 | AI-assisted builder + website |
 | [Teal Resume Builder](https://www.tealhq.com/post/resume-builder) 🆓 | Builder + job tracker integrated |
 | [Enhancv](https://enhancv.com) 💰 | Modern templates, AI content help |
-
 | [ResumeInvited](https://resumeinvited.com/) 🆓 | Browser-based builder with live preview, local drafts, and PDF or editable Word export; no signup required |
 
 ### ATS resume checkers
