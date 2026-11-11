@@ -458,6 +458,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | Platform | Description |
 |---|---|
 | [AI-Jobs.net](https://ai-jobs.net) ⭐ 🎯 | Dedicated AI/ML board — research + engineering |
+| [caio.pro](https://caio.pro/jobs.html) 🆓 🎯 | Senior AI and data leadership roles, including Chief AI Officer and Head of AI |
 | [Talent.com AI](https://www.talent.com/jobs/ai) | Aggregator AI filter |
 | [DataJobs.com](https://datajobs.com) 🎯 | Data + analytics specific board |
 | [Hugging Face Jobs](https://huggingface.co/jobs) 🏢 | ML/AI community-adjacent roles |
