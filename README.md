@@ -404,6 +404,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Working Nomads](https://www.workingnomads.com) 🆓 | Remote list with email digest |
 | [Remotive](https://remotive.com) 🆓 | Remote community + job board |
 | [JustRemote](https://justremote.co) 🆓 | Remote jobs with location filters |
+| [HeyRole](https://heyrole.ai/) 🆓 | Free remote job browsing with location, role and seniority filters, plus original application links |
 | [Remote.co](https://remote.co) 🆓 | Hand-curated remote jobs (FlexJobs sister) |
 | [Himalayas](https://himalayas.app) ⭐ 🆓 | Remote-first company directory + jobs, good filters |
 | [Wellfound (ex-AngelList Talent)](https://wellfound.com) ⭐ 🆓 | Startup + remote filter, equity + salary transparent |
