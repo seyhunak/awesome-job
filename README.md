@@ -414,6 +414,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Europe Remotely](https://europeremotely.com) 🆓 | Remote jobs with EU timezone focus |
 | [Remote Rocketship](https://remoterocketship.com) 🆓 | Aggregates 100k+ remote jobs |
 | [Jobicy Remote](https://jobicy.com) 🆓 | Curated remote listings with salary filters |
+| [WorkinVirtual U.S. Nationwide Remote Jobs](https://workinvirtual.com/us-nationwide-remote-jobs/) 🆓 | U.S. remote job listings with location, working hours, and application details to check before applying |
 | [Arbeitnow Remote](https://www.arbeitnow.com/jobs/remote) 🆓 | Remote filter with direct company links |
 | [NoDesk](https://nodesk.co) 🆓 | Curated remote jobs + company profiles |
 
