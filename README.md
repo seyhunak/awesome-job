@@ -447,6 +447,7 @@ Every section opens with a **primer** (the mental model you need), then lists th
 | [Kariyer.net Tech](https://www.kariyer.net/is-ilanlari?sektor=bilisim) | Turkey tech filter |
 | [Built In](https://builtin.com/jobs) 🆓 | US tech hubs — Built In NYC/LA/Chicago/Austin/Colorado |
 | [Cord](https://cord.co) 🆓 | EU/UK tech marketplace — direct hiring-manager chat |
+| [Dex](https://meetdex.ai) 🎯 | AI talent agent for senior software engineers: learns what you want, shows one matching role at a time and introduces you only if you opt in |
 | [PowerToFly](https://powertofly.com) 🆓 | Diversity-focused tech + remote roles |
 
 ---
